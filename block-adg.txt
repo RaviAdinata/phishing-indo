@@ -166,4 +166,8 @@
 ||info-update.o-rg.com^$important
 ||abvind.com^$important
 ||indoaktif.com^$important
-||https://yutub.rangunan.my.id^$important
+||yutub.rangunan.my.id^$important
+||bidlboo.com^$important
+||indoaksess.com^$important
+||bltkemensos.com^$important
+||333v7.com^$important
